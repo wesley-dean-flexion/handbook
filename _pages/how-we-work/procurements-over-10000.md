@@ -111,4 +111,4 @@ After all work under a contract has been delivered, it is time to close out the 
 
 ## Still have questions?
 
-Ask in Slack: [#tts-oa-internalbuy](https://gsa-tts.slack.com/messages/tts-oa-internalbuy/)
+Ask in Slack: [#tts-oa](https://gsa-tts.slack.com/messages/tts-oa/)
