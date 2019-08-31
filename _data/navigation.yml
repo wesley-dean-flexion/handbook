@@ -4,3 +4,6 @@ footer:
   - text: File an issue
     href: https://github.com/18F/handbook/issues/
     external: true
+
+documentation:
+  - text: "On this page:"

@@ -1,5 +1,21 @@
 ---
 title: 18F Performance Plan (for FY19)
+sidenav: documentation
+subnav:
+  - text: Critical elements
+    href: '#critical-elements'
+  - text: Results Driven
+    href: '#results-driven'
+  - text: Leading People
+    href: '#leading-people'
+  - text: Business Acumen
+    href: '#business-acumen'
+  - text: Leading Change
+    href: '#leading-change'
+  - text: Building Coalitions
+    href: '#building-coalitions'
+  - text: What about levels 1 and 2?
+    href: '#what-about-levels-1-and-2'
 ---
 
 [Performance plans](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/planning/a-checklist-for-performance-plans/) are documents we use to communicate expectations, structure feedback, and evaluate employee performance during our annual review cycle (which aligns with the government [fiscal year](https://www.senate.gov/reference/glossary_term/fiscal_year.htm)).

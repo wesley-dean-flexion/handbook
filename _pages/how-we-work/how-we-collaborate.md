@@ -1,5 +1,13 @@
 ---
 title: How we collaborate
+sidenav: documentation
+subnav:
+  - text: Project meetings
+    href: '#project-rituals-and-meetings'
+  - text: Remote collaboration
+    href: '#making-remote-collaboration-work'
+  - text: Inclusive teams and meetings
+    href: '#creating-inclusive-teams-and-meetings'
 ---
 
 We [work with partners]({{site.baseurl}}/how-we-relate-to-partners/) to model agile, open, and inclusive teams that demonstrate the value of technical experts, procurement decision-makers, strategic deciders, and frontline public servants working together toward the same goal.

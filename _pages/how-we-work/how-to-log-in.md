@@ -1,5 +1,13 @@
 ---
 title: Logging in
+sidenav: documentation
+subnav:
+  - text: ENT (enterprise) login
+    href: '#ent-enterprise-login'
+  - text: Change or reset your Macbook login
+    href: '#change-or-reset-your-macbook-login-password'
+  - text: Logging into apps with your GSA Google account
+    href: '#logging-into-apps-with-your-gsa-google-account'
 tags:
 - ent
 - OAuth

@@ -1,5 +1,13 @@
 ---
 title: How we relate to partners
+sidenav: documentation
+subnav:
+  - text: Why partnership?
+    href: '#why-partnership'
+  - text: Principles for consulting work
+    href: '#principles-for-consulting-work'
+  - text: Longer reads and deeper conversation
+    href: '#longer-reads-and-deeper-conversation'
 tags:
 - consulting
 ---
