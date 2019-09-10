@@ -32,7 +32,7 @@ title: Washington, D.C.
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS sits on the fourth floor in the first wing and in the 400&rsquo;s hallway, which is located on the E Street side in what&rsquo;s known as the infill.
+           TTS sits on the third floor in the first wing, which is located on the E Street side of the building. We also have desk space in part of the zero wing, Rooms 3007/3009/3011 (note: although the zero wing rooms are numbered separately, they are in one large, combined room).
         </td>
       </tr>
       <tr>
@@ -82,7 +82,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21 fo
 
 ### Once inside GSA
 
-When entering from the F Street entrance, continue straight past security down the hallway in front of you. At the end of the hallway, take the elevators up to floor four. Once out of the elevators, take two quick right turns and you&rsquo;ll be in the fourth floor infill. A map is here.
+When entering from the F Street entrance, go left once you exit the security area. Go down the hallway, past the Auditorium, to the set of elevators. Take the elevators up to floor three. Once out of the elevators, take a right turn and you&rsquo;ll be on the third floor, wing one.
 
 
 ## How do I&hellip;
@@ -100,7 +100,7 @@ Your badge should get you in. If you&rsquo;re having trouble, call one of the po
 
 ### Get my fingerprints and badge?
 
-Fingerprinting and the photo for your badge take place immediately after security in room 1033. Badge pickup is on the first floor, in the library. After pickup, you'll need to get it activated in the basement.
+Fingerprinting and the photo for your badge take place immediately after security in room 1033. Badge pickup is on the first floor, in the library. After pickup, you'll need to get it activated in the basement, room B338.
 
 ### Attend GSA and TTS orientation
 
@@ -113,7 +113,7 @@ Send mail to:
 > (you can add "ATTN: Name" at top if desired) <br>
 > General Services Administration <br>
 > 1800 F ST NW <br>
-> Rm 4400 <br>
+> Rm 3100 <br>
 > Washington, DC 20405-0001
 
 ### Access the building after hours?
@@ -163,13 +163,13 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located at the end of both the 4100 and 4200 wings. Additional bathrooms are just outside the 4400 space in the 4100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
+Gendered bathrooms are located at both ends of the 3100 wing. A single-occupancy, wheelchair-accessible all-gender bathroom is located on the third floor in wing three (room 3355).
 
-### Mother’s rooms
+### Pumping room
 
-Look for room 1232A at the back of the health center on the first floor. You don’t need to reserve it. If it’s in use, you can use the doctor’s office or one of the other rooms near the health clinic. After 4 p.m., you can access the mother’s room directly from the hallway, but the rest of the health center will be closed.
+Look for room 1232A at the back of the health center on the first floor. You don’t need to reserve it. If it’s in use, you can use the doctor’s office or one of the other rooms near the health clinic. After 4 p.m., you can access the pumping room directly from the hallway, but the rest of the health center will be closed.
 
-There is a fridge inside the mother’s room and one outside the room as well. At the end of the day, if there’s any milk in the outer fridge, they’ll move it to the inner fridge.
+There is a fridge inside the pumping room and one outside the room as well. At the end of the day, if there’s any milk in the outer fridge, they’ll move it to the inner fridge.
 
 ### Yoga and meditation rooms
 
@@ -177,26 +177,19 @@ Room 3042, at the corner of the 3000 and 3300 wings, is available for yoga and m
 
 ### Batteries
 
-If you need batteries for your keyboard or trackpad, there is a consolidated supply closet on the first floor of the building, in the 200 wing. There are also rechargeable batteries in a charger plugged into one of the columns in the 4462 area.
+If you need batteries for your keyboard or trackpad, there is a consolidated supply office on the first floor of the building, in the 200 wing.
 
 
 ### Lockers
 
-The lockers are in two spots. One set is by the couches the other by that large table on the E Street side. If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker in the 4th floor infill area.
+Personal storage lockers are spread throughout the 3100 hallway and in 3007/3009/3011. If you work in DC and do not have a locker assigned to you, email 1800ftenantsupport@gsa.gov to request a locker in the 3100 area.
 
 
 ### Snacks
 
 GSA has a small canteen on the first floor for snacks, yogurts, and coffee. Hours are: Monday, 7am-2pm; Tuesday-Thursday, 7am-3pm; Friday, 7am-2pm.
 
-Additionally, there are a series of three drawers for snack foods located within TTS infill that are stocked with snacks purchased with a collective private fund and available for members only. Ask in [#dc](https://gsa-tts.slack.com/messages/dc/) if you want to contribute and join.
-
 The DC fridge is cleaned out monthly on Fridays (dates are posted on the fridge), and all food (including containers) is thrown out.
-
-
-### Spare keyboards and mice
-
-There are several of these located in one of the Gold Key drawers. Batteries can be found in one of the chargers nearby. Note that these will require you to setup bluetooth pairing to your laptop to use them and they may be paired with someone else&rsquo;s machine at first.
 
 
 ### Tissues
@@ -214,7 +207,7 @@ The water cooler in the infill is reserved for those who have contributed to the
 
 ### Child care
 
-Here are some [local child care facilities](http://www.gsa.gov/portal/content/101942#DC).
+There is a [U.S. Kids child care facility](http://uskidsdc.org/) in Central Office. Here is a list of additional [local child care facilities](http://www.gsa.gov/portal/content/101942#DC).
 
 
 ### Gym, lockers, locker rooms
