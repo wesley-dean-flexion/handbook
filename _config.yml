@@ -33,11 +33,10 @@ defaults:
       type: "pages"
     values:
       layout: "handbook_page"
-
-collections:
-  pages:
-    output: true
-    permalink: /:name/
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename/
 
 url: "https://handbook.tts.gsa.gov"
 plugins:

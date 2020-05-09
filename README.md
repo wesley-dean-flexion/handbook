@@ -33,11 +33,11 @@ To add additional images:
 
 To create a new page:
 
-1. Create a markdown file in the `_pages/policies/travel` directory.
+1. Create a markdown file in the `pages/policies/travel` directory.
 1. Include a title and links to the "Travel Guide TOC" (see existing pages for reference).
 1. Update the page content.
 
-- Update the Travel Guide TOC `_pages/policies/travel/travel-guide-table-of-contents.md` with a link to your new page.
+- Update the Travel Guide TOC `pages/policies/travel/travel-guide-table-of-contents.md` with a link to your new page.
 
 ### Internal links
 
