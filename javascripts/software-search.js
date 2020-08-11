@@ -105,3 +105,11 @@ const init = async () => {
 };
 
 init();
+
+if (typeof module === "object") {
+  // export functions for testing
+  module.exports = {
+    getSoftware,
+    buildIndex,
+  };
+}

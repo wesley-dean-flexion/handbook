@@ -1,5 +1,12 @@
-const sum = require("../javascripts/software-search");
+const search = require("../javascripts/software-search");
 
-test("adds 1 + 2 to equal 3", () => {
-  expect(sum(1, 2)).toBe(3);
+let index;
+
+beforeAll(async () => {
+  const software = await search.getSoftware();
+  index = search.buildIndex(software);
+});
+
+test("returns five results", () => {
+  expect(index.search("github").length).toBe(5);
 });
