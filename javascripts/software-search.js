@@ -1,3 +1,9 @@
+// if running in Node
+if (typeof require === "function") {
+  Papa = require("./papaparse.min");
+  Fuse = require("./fuse");
+}
+
 const getSoftware = async () => {
   const source =
     "https://raw.githubusercontent.com/GSA/data/master/enterprise-architecture/it-standards.csv";

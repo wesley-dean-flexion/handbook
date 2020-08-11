@@ -1,12 +1,12 @@
 const search = require("../javascripts/software-search");
 
-let index;
+test("matches a single result", () => {
+  const index = search.buildIndex([
+    {
+      "Standard Name": "GitHub",
+      Description: "foo bar",
+    },
+  ]);
 
-beforeAll(async () => {
-  const software = await search.getSoftware();
-  index = search.buildIndex(software);
-});
-
-test("returns five results", () => {
-  expect(index.search("github").length).toBe(5);
+  expect(index.search("github").length).toBe(1);
 });
