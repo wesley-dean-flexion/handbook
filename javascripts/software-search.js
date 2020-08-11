@@ -81,7 +81,11 @@ const displayResults = (software) => {
 
 const doSearch = (query, index, softwareByName) => {
   const nResults = 5;
-  const searchResults = index.search(query).slice(0, nResults);
+  const searchResults = index
+    .search(query)
+    .slice(-1 * nResults)
+    .reverse();
+
   // retrieve the matching software entries
   const softwareResults = searchResults.map((result) => result.item);
   displayResults(softwareResults);
