@@ -8,15 +8,20 @@ const getSoftware = async () => {
 };
 
 const buildIndex = (software) => {
-  return lunr(function () {
-    const idx = this;
-    idx.ref("Standard Name");
-    idx.field("Standard Name", { boost: 2 });
-    idx.field("Description");
-
-    software.forEach((item) => {
-      idx.add(item);
-    });
+  return new Fuse(software, {
+    // isCaseSensitive: false,
+    // includeScore: false,
+    // shouldSort: true,
+    // includeMatches: false,
+    findAllMatches: true,
+    // minMatchCharLength: 1,
+    // location: 0,
+    // threshold: 0.6,
+    // distance: 100,
+    // useExtendedSearch: false,
+    ignoreLocation: true,
+    // ignoreFieldNorm: false,
+    keys: [{ name: "Standard Name", weight: 2 }, "Description"],
   });
 };
 
@@ -78,9 +83,7 @@ const doSearch = (query, index, softwareByName) => {
   const nResults = 5;
   const searchResults = index.search(query).slice(0, nResults);
   // retrieve the matching software entries
-  const softwareResults = searchResults.map(
-    (result) => softwareByName[result.ref]
-  );
+  const softwareResults = searchResults.map((result) => result.item);
   displayResults(softwareResults);
 };
 
