@@ -16,8 +16,10 @@ const getSoftware = async () => {
 const buildIndex = (software) => {
   return new Fuse(software, {
     // isCaseSensitive: false,
-    // includeScore: false,
+    includeScore: true,
     // shouldSort: true,
+    // reverse
+    sortFn: (a, b) => b.score - a.score,
     // includeMatches: false,
     findAllMatches: true,
     // minMatchCharLength: 1,
@@ -80,10 +82,7 @@ const displayResults = (software) => {
 
 const doSearch = (query, index) => {
   const nResults = 5;
-  const searchResults = index
-    .search(query)
-    .slice(-1 * nResults)
-    .reverse();
+  const searchResults = index.search(query).slice(-1 * nResults);
 
   // retrieve the matching software entries
   const softwareResults = searchResults.map((result) => result.item);
