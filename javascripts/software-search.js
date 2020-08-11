@@ -110,12 +110,12 @@ const init = async () => {
   doSearch(input.value, index);
 };
 
-init();
-
 if (typeof module === "object") {
   // export functions for testing
   module.exports = {
     getSoftware,
     buildIndex,
   };
+} else {
+  init();
 }
