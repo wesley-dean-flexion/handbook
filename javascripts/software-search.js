@@ -25,13 +25,6 @@ const buildIndex = (software) => {
   });
 };
 
-// https://medium.com/dailyjs/rewriting-javascript-converting-an-array-of-objects-to-an-object-ec579cafbfc7
-const arrayToObject = (array, keyField) =>
-  array.reduce((obj, item) => {
-    obj[item[keyField]] = item;
-    return obj;
-  }, {});
-
 const toClassStr = (str) => str.replace(/[^\w]+/, "-").toLowerCase();
 
 const addNameCell = (row, entry) => {
@@ -79,7 +72,7 @@ const displayResults = (software) => {
   table.style.display = software.length == 0 ? "none" : null;
 };
 
-const doSearch = (query, index, softwareByName) => {
+const doSearch = (query, index) => {
   const nResults = 5;
   const searchResults = index
     .search(query)
@@ -101,15 +94,14 @@ const init = async () => {
 
   const software = await getSoftware();
   const index = buildIndex(software);
-  const softwareByName = arrayToObject(software, "Standard Name");
 
   input.addEventListener("input", async (event) => {
     const query = event.target.value;
-    doSearch(query, index, softwareByName);
+    doSearch(query, index);
     window.location = `#${encodeURIComponent(query)}`;
   });
 
-  doSearch(input.value, index, softwareByName);
+  doSearch(input.value, index);
 };
 
 init();
