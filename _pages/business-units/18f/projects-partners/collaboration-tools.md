@@ -12,9 +12,12 @@ Below are our the tools we use internally at TTS and potential tools to help you
 
 For each tool mentioned below, we include links to:
 
-- a setup handbook page
-- a Tool @ TTS guide
-- an admin handbook page _when applicable_
+- **Handbook Page:** a public-facing explanation which covers the basics about getting set up and some general best practices
+- **Internal Guide:** requires access to TTS- or GSA-enterprise systems (such as Drive or InSite), explaining more specifically how we utilize the tool at TTS
+- **Admin Handbook Page:** when applicable, explaining administrative tasks related to the upkeep of that particular tool
+- **External or supplementary reading:** additional articles that may be helpful in explaining how best to use these tools
+- **Security and compliance considerations:** any specific notes about [ATOs]({{site.baseurl}}/getting-started/#security-compliance-and-atos) or usage regulations
+- **Barriers to use with partners:** some common problem areas you may encounter when trying to use this tool with your partners, including suggested workarounds
 
 ### Instant messaging
 
