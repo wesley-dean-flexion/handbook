@@ -1,5 +1,5 @@
 ---
-title: Leave (HR Links)
+title: Leave
 tags:
 - hrlinks
 - hrlinks
@@ -202,7 +202,7 @@ In cases of serious disability or ailment, and when the exigencies of the situat
 
 * Authorized absence without charge to leave or pay
 * Must be officially requested to serve in a judicial proceeding to which the Federal, a state, or local government is party
-* Requests for time off due to jury duty can now be made in [HR Links](https://corporateapps.gsa.gov/hr-links/); this option was not previously available in Aloha.
+* Requests for time off due to jury duty can be made in [HR Links](https://corporateapps.gsa.gov/hr-links/).
 
 ## Religious observance
 
