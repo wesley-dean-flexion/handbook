@@ -65,7 +65,7 @@ Read our [COR Playbook](https://docs.google.com/document/d/14xOFvIGwlG0Gbd52o1D4
 
 ### How do I complete a micropurchase?
 
-In addition to buys over $10,000, OA buys services for TTS under $10,000 per year. The TTS Technology Portfolio is in charge of procuring software under $10,000 and the Operations team is responsible for procuring [everything else under $10,000]. You can visit the [Purchase requests handbook page]({{ site.baseurl }}/purchase-requests/) to find out the process for services and miscellaneous micropurchases and the [Software under $10,000 page]({{ site.baseurl }}/software/)for software purchases.
+In addition to buys over $10,000, OA buys services for TTS under $10,000 per year. The TTS Technology Portfolio is in charge of procuring software under $10,000 and the Operations team is responsible for procuring [everything else under $10,000]. You can visit the [Purchase requests handbook page]({{ site.baseurl }}/purchase-requests/) to find out the process for services and miscellaneous micropurchases and the [Software under $10,000 page]({{ site.baseurl }}/software/)for software purchases. 
 
 ### How do I get started with a buy over $10,000 per year?
 
