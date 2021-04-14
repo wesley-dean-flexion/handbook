@@ -52,7 +52,9 @@ To check for an ATO, you need to go to [check the IT Standards list]({{site.base
 
 If the ATO is expired or you cannot find it in GEAR, you can post in the Slack channel [#tts-tech-portfolio](https://gsa-tts.slack.com/messages/tts-tech-portfolio/) to ask if there is an updated ATO. If there is no ATO or the ATO is expired, you will need to go through the ATO process to ensure your software is approved by security. The ATO process can take 4-6 weeks and [costs money](https://docs.google.com/spreadsheets/d/1PokRIGaGl04sxMxEHGwMIRaJDx4OPEXpJ7g69ekDdz8/edit#gid=1451563242z) and there is no guarantee it will be approved. If your need is urgent, try to find something in the [IT Standards]({{site.baseurl}}/software/search/) list that is already approved and meets your needs.
 
-### Step 3: [Submit a micropurchase request.]({{site.baseurl}}/purchase-requests/)
+### Step 3: Submit a micropurchase request
+You will need to make a copy of this [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d), fill it out, and attach the link to the micropurchase request form. After you submit the form, the TTS Technology Portfolio will review your request. Please be ready to address any questions, comments, or feedback at your earliest convenience. Once the Tech Portfolio has reviewed your request, they will send it through the approval process in the micropurchase request sheet. Your supervisor will approve via a link in their email. Once the purchase is approved, the purchase card holder will reach out to you to complete the purchase.
+
 
 ## Other lists and approval processes
 
